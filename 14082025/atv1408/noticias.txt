@@ -1,0 +1,3 @@
+Notícia 1: PHP é uma linguagem de programação web muito popular.
+Notícia 2: O desenvolvimento web está em constante evolução.
+Notícia 3: Frameworks modernos facilitam o desenvolvimento.
